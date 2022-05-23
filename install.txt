@@ -1,0 +1,7 @@
+
+* cara install
+
+1. npx create-react-app luxspace --template cra-template-pwa
+2. upload githu- upload vercell - setting domain
+3. npm install -D tailwindcss postcss autoprefixer
+4. npx tailwindcss init -p
