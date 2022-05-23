@@ -5,3 +5,13 @@
 2. upload githu- upload vercell - setting domain
 3. npm install -D tailwindcss postcss autoprefixer
 4. npx tailwindcss init -p
+5. pada config tailwindcss :
+    content: ["./src/**/*.{js,jsx}"],
+6. hapus semua codingan index.css ganti dengan 
+    @tailwind base;
+    @tailwind components;
+    @tailwind utilities;
+
+6. hapus file yang tdk dgunakan antara lain : app.css 
+
+   
