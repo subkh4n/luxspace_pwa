@@ -30,7 +30,7 @@ function Arrived() {
                 </div>
                 <h5 className="text-lg font-semibold mt-4">Cangkir Mauttie</h5>
                 <span className="">IDR 89.300</span>
-                <a href="details.html" className="stretched-link"></a>
+                <a href="newold" className="stretched-link"></a>
               </div>
 
               <div className="px-4 relative card group">
@@ -47,7 +47,7 @@ function Arrived() {
                 </div>
                 <h5 className="text-lg font-semibold mt-4">Bankyu Minimay</h5>
                 <span className="">IDR 67.899</span>
-                <a href="details.html" className="stretched-link"></a>
+                <a href="newold" className="stretched-link"></a>
               </div>
 
               <div className="px-4 relative card group">
@@ -64,7 +64,7 @@ function Arrived() {
                 </div>
                 <h5 className="text-lg font-semibold mt-4">Buku Sidu Edition</h5>
                 <span className="">IDR 120.699</span>
-                <a href="details.html" className="stretched-link"></a>
+                <a href="newold" className="stretched-link"></a>
               </div>
 
               <div className="px-4 relative card group">
@@ -81,7 +81,7 @@ function Arrived() {
                 </div>
                 <h5 className="text-lg font-semibold mt-4">Watch Notes X</h5>
                 <span className="">IDR 1.973.000</span>
-                <a href="details.html" className="stretched-link"></a>
+                <a href="newold" className="stretched-link"></a>
               </div>
 
               <div className="px-4 relative card group">
@@ -98,7 +98,7 @@ function Arrived() {
                 </div>
                 <h5 className="text-lg font-semibold mt-4">Racking Plants</h5>
                 <span className="">IDR 599.400</span>
-                <a href="details.html" className="stretched-link"></a>
+                <a href="newold" className="stretched-link"></a>
               </div>
 
               <div className="px-4 relative card group">
@@ -115,7 +115,7 @@ function Arrived() {
                 </div>
                 <h5 className="text-lg font-semibold mt-4">Racking Plants</h5>
                 <span className="">IDR 599.400</span>
-                <a href="#details.html" className="stretched-link"></a>
+                <a href="newold" className="stretched-link"></a>
               </div>
 
               <div className="px-4 relative card group">
@@ -132,7 +132,7 @@ function Arrived() {
                 </div>
                 <h5 className="text-lg font-semibold mt-4">Racking Plants</h5>
                 <span className="">IDR 599.400</span>
-                <a href="#details.html" className="stretched-link"></a>
+                <a href="newold" className="stretched-link"></a>
               </div>
             </div>
           </div>
