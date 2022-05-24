@@ -1,10 +1,16 @@
 import React from "react";
+import Arrived from "./components/Arrived";
+import Browser from "./components/Browser";
+import Header from "./components/Header";
+import Hero from "./components/Hero";
 
 function App() {
   return (
-    <div className="container mx-auto bg-gray-200 rounded-xl shadow border p-8 m-10">
-      <p className="text-3xl text-red-700 font-bold mb-5">Welcome!</p>
-      <p className="text-gray-500 text-lg">React and Tailwind CSS in action</p>
+    <div>
+      <Header />
+      <Hero />
+      <Browser />
+      <Arrived />
     </div>
   );
 }
