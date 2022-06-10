@@ -14,17 +14,17 @@ function Aside() {
                 <h5 className="text-lg font-semibold mb-2 relative">Overview</h5>
                 <ul className="h-0 invisible md:h-auto md:visible overflow-hidden">
                   <li>
-                    <a href="#" className="hover:underline py-1 block">
+                    <a href="/" className="hover:underline py-1 block">
                       Shipping
                     </a>
                   </li>
                   <li>
-                    <a href="#" className="hover:underline py-1 block">
+                    <a href="/" className="hover:underline py-1 block">
                       Refund
                     </a>
                   </li>
                   <li>
-                    <a href="#" className="hover:underline py-1 block">
+                    <a href="/" className="hover:underline py-1 block">
                       Promotion
                     </a>
                   </li>
@@ -34,17 +34,17 @@ function Aside() {
                 <h5 className="text-lg font-semibold mb-2 relative">Company</h5>
                 <ul className="h-0 invisible md:h-auto md:visible overflow-hidden">
                   <li>
-                    <a href="#" className="hover:underline py-1 block">
+                    <a href="/" className="hover:underline py-1 block">
                       About
                     </a>
                   </li>
                   <li>
-                    <a href="#" className="hover:underline py-1 block">
+                    <a href="/" className="hover:underline py-1 block">
                       Career
                     </a>
                   </li>
                   <li>
-                    <a href="#" className="hover:underline py-1 block">
+                    <a href="/" className="hover:underline py-1 block">
                       Contact Us
                     </a>
                   </li>
@@ -54,17 +54,17 @@ function Aside() {
                 <h5 className="text-lg font-semibold mb-2 relative">Explore</h5>
                 <ul className="h-0 invisible md:h-auto md:visible overflow-hidden">
                   <li>
-                    <a href="#" className="hover:underline py-1 block">
+                    <a href="/" className="hover:underline py-1 block">
                       Terms & Conds
                     </a>
                   </li>
                   <li>
-                    <a href="#" className="hover:underline py-1 block">
+                    <a href="/" className="hover:underline py-1 block">
                       Privacy Policy
                     </a>
                   </li>
                   <li>
-                    <a href="#" className="hover:underline py-1 block">
+                    <a href="/" className="hover:underline py-1 block">
                       For Developer
                     </a>
                   </li>
@@ -72,7 +72,7 @@ function Aside() {
               </div>
               <div className="px-4 w-full md:w-3/12 mb-4 md:mb-0">
                 <h5 className="text-lg font-semibold mb-2 relative">Special Letter</h5>
-                <form action="#">
+                <form action="/">
                   <label className="relative w-full">
                     <input type="text" className="bg-gray-100 rounded-xl py-3 px-5 w-full focus:outline-none" placeholder="Your email adress" />
                     <button className="bg-pink-400 absolute rounded-xl right-0 p-3">

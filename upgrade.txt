@@ -1,0 +1,4 @@
+1.update semua dengan cara
+npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
+
+2. 
